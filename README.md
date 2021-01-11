@@ -6,6 +6,5 @@
 - 🌱 I’m currently learning **full stack developoment**
 - 👯 I’m looking to collaborate on **open source projects :)**
 - 💬 Ask me about **React and Node**
-- 📫 How to reach me **souravsingh8930@gmail.com**
 - ⚡ Fun fact **I watch anime :p**
 
