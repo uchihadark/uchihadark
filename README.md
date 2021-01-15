@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects :)**
 
-- 💬 Ask me about **React,Node or Anime**
+- 💬 Ask me about **React, Node or Anime**
 
 - ⚡ Fun fact **I like anime and cats :p**
 
