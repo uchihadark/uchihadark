@@ -10,5 +10,3 @@
 
 - 💬 Ask me about **React, Node and Anime**
 
-- ⚡ Fun fact **I like anime and cats :p**
-
