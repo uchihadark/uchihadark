@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **some personal projects**
 
-- 🌱 I’m currently learning **full stack developoment**
+- 🌱 I’m currently learning **backend developoment**
 
 - 👯 I’m looking to collaborate on **open source projects :)**
 
-- 💬 Ask me about **React, Node and Anime**
+- 💬 Ask me about **Python, Django and Anime**
 
