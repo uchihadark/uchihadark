@@ -8,5 +8,5 @@
 
 - 👯 I’m looking to collaborate on **open source projects :)**
 
-- 💬 Ask me about **Python, Django and Anime**
+- 💬 Ask me about **python, django and anime**
 
